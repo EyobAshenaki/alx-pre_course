@@ -1,1 +1,1 @@
-this directory is about learning git in alx pre-course
+this directory is a beginner level learning about git in alx pre-course
